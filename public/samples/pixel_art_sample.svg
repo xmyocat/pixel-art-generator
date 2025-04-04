@@ -1,0 +1,11 @@
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" fill="#f0f0f0"/>
+  <rect x="100" y="40" width="60" height="60" fill="#ff6b6b"/>
+  <rect x="80" y="100" width="100" height="40" fill="#ff6b6b"/>
+  <rect x="80" y="140" width="20" height="60" fill="#ff6b6b"/>
+  <rect x="160" y="140" width="20" height="60" fill="#ff6b6b"/>
+  <rect x="120" y="200" width="20" height="20" fill="#ff6b6b"/>
+  <rect x="140" y="180" width="20" height="40" fill="#ff6b6b"/>
+  <rect x="100" y="180" width="20" height="40" fill="#ff6b6b"/>
+  <text x="50" y="30" font-family="Arial" font-size="14" fill="#333">Pixel Art Sample</text>
+</svg>
